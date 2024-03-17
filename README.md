@@ -10,6 +10,7 @@
 
 Back-end: Python, Node.js, and PHP (including frameworks like Laravel).
 Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
+
 📊 Proficient in database design and optimization, including MySQL and PHPmySQL.
 
 🌐 Dedicated to continuous learning and staying updated with the latest technologies.
