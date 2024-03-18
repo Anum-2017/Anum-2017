@@ -26,7 +26,7 @@ Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
 
 📫 How to reach me **anumriz2017@gmail.com**
 
-⚡ Fun fact **Tech lover,Coding enthusiast.Bringing joy through code!**
+⚡ Fun fact **Tech lover, coding enthusiast. Bringing joy through code!**
 
 
 <h3 align="left">Languages and Tools:</h3>
