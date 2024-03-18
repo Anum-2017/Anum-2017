@@ -8,8 +8,8 @@
 
 🌟 Here's a glimpse of my expertise in web development technologies: 💻
 
-
 Back-end: Python, Node.js, and PHP (including frameworks like Laravel).
+
 Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
 
 📊 Proficient in database design and optimization, including MySQL and PHPmySQL.
