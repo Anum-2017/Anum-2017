@@ -28,7 +28,7 @@ Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
 
 ⚡ Fun fact **Tech lover, coding enthusiast. Bringing joy through code!**
 
-<h3 align="center" > <img src="young-woman-using-computer-cartoon-vector-25648524" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
+<h3 align="center">Connect with me on 🤝: </h3>
  
 <p align="center">
  <div align="center"  class="icons-social" style="margin-center: 10px;">
