@@ -34,14 +34,10 @@ Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
     <a href="mailto:anumriz2017@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Anum Kamal - Email"></a>
-    <a href="https://t.me/AsharibAli" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Asharib Ali -Telegram"></a>
-    <a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Asharib Ali-Twitter"></a>
-    <a href="https://linkedin.com/in/asharibali" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Asharib Ali-Linkedin"></a><br>
+    <a href="https://www.linkedin.com/in/anum-kamal-442b2022b" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Asharib Ali-Linkedin"></a><br>
     <a href="https://facebook.com/asharib.imtiaz" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Asharib Ali- Facebook"></a>
     <a href="https://www.Instagram.com/asharibarain4/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Asharib Ali-Instagram"></a>
-    <a href="https://youtube.com/@0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" alt="Asharib Ali-Youtube"></a>
     <a href="https://www.fiverr.com/asharibarain" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Asharib Ali-fiverr"></a>
-<a href="https://asharibali.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=F0DB4F" alt="Asharib Ali-Medium"></a>
     <br>
 </div>
 
