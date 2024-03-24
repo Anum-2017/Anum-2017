@@ -24,8 +24,6 @@ Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
 
 👨‍💻 All of my projects are available at [https://github.com/Anum-2017](https://github.com/Anum-2017)
 
-📫 How to reach me **anumriz2017@gmail.com**
-
 ⚡ Fun fact **Tech lover, coding enthusiast. Bringing joy through code!**
 
 <h3 align="center">Connect with me on 🤝: </h3>
