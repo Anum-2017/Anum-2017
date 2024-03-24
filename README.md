@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anum Kamal</h1>
 
+<img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://in.pinterest.com/pin/premium-vector--757378862329490263/)"/>
+
 👀 I'm a Software Engineer and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
 
 🌱 I'm currently learning about machine learning and artificial intelligence to enhance my skills.
