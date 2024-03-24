@@ -31,10 +31,10 @@ Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
 <p align="center">
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
-    <a href="mailto:anumriz2017@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Anum Kamal - Email"></a><br>
-    <a href="https://www.linkedin.com/in/anum-kamal-442b2022b" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Anum Kamal - Linkedin"></a><br>
+    <a href="mailto:anumriz2017@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Anum Kamal - Email"></a>
+    <a href="https://www.linkedin.com/in/anum-kamal-442b2022b" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Anum Kamal - Linkedin"></a><
     <a href="https://www.facebook.com/anum.kamal" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Anum Kamal - Facebook"></a><br>
-    <a href="https://www.instagram.com/anum_kamal" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Anum Kamal-Instagram"></a><br>
+    <a href="https://www.instagram.com/anum_kamal" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Anum Kamal-Instagram"></a>
     <a href="https://www.fiverr.com/anumkamal753" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anum Kamal-fiverr"></a>
     <br>
 </div>
@@ -46,7 +46,6 @@ Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://https://www.w3schools.com/bootstrap5/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Bootstrap/Bootstrap-original.svg" alt="Bootstap" width="40" height="40"/> </a>
      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
