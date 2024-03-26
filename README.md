@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anum Kamal</h1>
 
-👀 I'm a Software Engineer and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
+👀 I'm a <b>Software Engineer</b> and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
 
 🌱 I'm currently learning about machine learning and artificial intelligence to enhance my skills.
 
