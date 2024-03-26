@@ -8,9 +8,9 @@
 
 🌟 Here's a glimpse of my expertise in web development technologies: 💻
 
-Back-end: Python, Node.js, and PHP (including frameworks like Laravel).
+<b>Back-end:</b> Python, Node.js, and PHP (including frameworks like Laravel).
 
-Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
+<b>Front-end:</b> HTML, CSS, JavaScript, Bootstrap, and TypeScript.
 
 📊 Proficient in database design and optimization, including MySQL and PHPmySQL.
 
@@ -22,7 +22,7 @@ Front-end: HTML, CSS, JavaScript, Bootstrap, and TypeScript.
 
 😄 Pronouns: She/Her
 
-👨‍💻 All of my projects are available at [https://github.com/Anum-2017](https://github.com/Anum-2017)
+👨‍💻 <b> All of my projects are available at [https://github.com/Anum-2017](https://github.com/Anum-2017) </b>
 
 ⚡ Fun fact **Tech lover, coding enthusiast. Bringing joy through code!**
 
