@@ -2,6 +2,8 @@
 
 👀 I'm a <b>Software Engineer</b> and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
 
+👨‍🎓 I’m currently enrolled in <b>Governor Initiative for IT.</b>
+
 🌱 I'm currently learning about <b>machine learning</b> and <b>artificial intelligence</b> to enhance my skills.
 
 👨‍💻 Software engineer passionate about crafting clean, efficient code.
