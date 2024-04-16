@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anum Kamal</h1>
 <h3 align="center">A passionate Web Developer</h3>
-<img align="right" width ="400 alt="coding" src="">
+<img align="right" width ="400" alt="coding" src="C:\Users\ELL\Desktop\AI practice\README.md\pic.jpg" >
 
 🎓 I'm a <b>Software Engineer</b> and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
 
