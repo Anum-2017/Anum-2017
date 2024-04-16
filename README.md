@@ -55,3 +55,9 @@
 </p>
      <br>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anum-2017&show_icons=true&locale=en&layout=compact" alt="Anum-2017" /></p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&locale=en" alt="Anum-2017" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anum-2017&" alt="Anum-2017" /></p>
+
