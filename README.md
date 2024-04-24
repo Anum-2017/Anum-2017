@@ -1,4 +1,4 @@
-![logo]( https://github.com/Anum-2017/Anum-2017/blob/main/.png )
+![logo](https://github.com/Anum-2017/Anum-2017/blob/main/LinkedIn%20Banner.png) 
 <h1 align="center">Hi 👋, I'm Anum Kamal</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
