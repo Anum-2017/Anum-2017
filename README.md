@@ -10,7 +10,7 @@
 
 👨‍💻 Software engineer passionate about crafting clean, efficient code.
 
-🌟 Here's a glimpse of my expertise in web development technologies: 💻
+🌟 Here's a glimpse of my expertise in web development technologies:
 
 <b>Back-end:</b> Python, Node.js, and PHP (including frameworks like Laravel).
 
