@@ -29,7 +29,7 @@
 
 ⚡ Fun fact **Tech lover, coding enthusiast. Bringing joy through code!**
 
-<h3 align="center">Connect with me on 🤝: </h3>
+<h3>Connect with me on 🤝: </h3>
  
 <p align="center">
  <div align="center"  class="icons-social" style="margin-center: 10px;">
