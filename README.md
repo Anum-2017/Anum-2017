@@ -1,6 +1,6 @@
 ![logo](https://github.com/Anum-2017/Anum-2017/blob/main/LinkedIn%20Banner.png) 
 <h1 align="center">Hi 👋, I'm Anum Kamal</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate FrontEnd Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 🎓 I'm a <b>Software Engineer</b> and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
@@ -24,8 +24,6 @@
 💡 Strong problem-solving skills and a collaborative team player.
 
 ✨ Let's code and create something amazing together!
-
-😄 Pronouns: She/Her
 
 👨‍💻 <b> All of my projects are available at [https://github.com/Anum-2017](https://github.com/Anum-2017) </b>
 
