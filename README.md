@@ -41,7 +41,7 @@
     <a href="https://www.fiverr.com/anumkamal753" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anum Kamal-fiverr"></a>
     <br>
 </div>
-  <h3 align="center">Language and Tools: </h3>
+  <h3> Language and Tools: </h3>
   
 <p align="center">
  <div align="center"  class="tools" style="margin-center: 10px;">
