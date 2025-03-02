@@ -31,8 +31,8 @@
 
 <h3>Connect with me on 🤝: </h3>
  
-<p align="center">
- <div align="center"  class="icons-social" style="margin-center: 10px;">
+<p>
+ <div class="icons-social" style="margin-center: 10px;">
 <div>   
     <a href="mailto:anumriz2017@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Anum Kamal - Email"></a>
     <a href="https://www.linkedin.com/in/anum-kamal-442b2022b" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Anum Kamal - Linkedin"></a>
@@ -41,10 +41,11 @@
     <a href="https://www.fiverr.com/anumkamal753" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anum Kamal-fiverr"></a>
     <br>
 </div>
+  
   <h3> Language and Tools: </h3>
   
-<p align="center">
- <div align="center"  class="tools" style="margin-center: 10px;">
+<p>
+ <div class="tools" style="margin-center: 10px;">
 <div> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
