@@ -31,16 +31,23 @@
 ⚡ Fun fact **Tech lover, coding enthusiast. Bringing joy through code!**
 
 <h3>Connect with me on 🤝: </h3>
- 
-<p>
- <div class="icons-social" style="margin-center: 10px;">
-<div>   
-    <a href="mailto:anumriz2017@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Anum Kamal - Email"></a>
-    <a href="https://www.linkedin.com/in/anum-kamal-442b2022b" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Anum Kamal - Linkedin"></a>
-    <a href="https://www.facebook.com/anum.kamal" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Anum Kamal - Facebook"></a>
-    <a href="https://www.instagram.com/anum_kamal" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Anum Kamal-Instagram"></a>
-    <a href="https://www.fiverr.com/anumkamal753" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anum Kamal-fiverr"></a>
-    <br>
+
+<div class="icons-social" style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
+  <a href="mailto:anumriz2017@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Anum Kamal - Email">
+  </a>
+  <a href="https://www.linkedin.com/in/anum-kamal-442b2022b" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Anum Kamal - Linkedin">
+  </a>
+  <a href="https://www.facebook.com/anum.kamal" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Anum Kamal - Facebook">
+  </a>
+  <a href="https://www.instagram.com/anum_kamal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Anum Kamal-Instagram">
+  </a>
+  <a href="https://www.fiverr.com/anumkamal753" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anum Kamal-fiverr">
+  </a>
 </div>
   
   ### 🧰 My Toolbox:
