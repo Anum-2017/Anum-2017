@@ -40,11 +40,11 @@
 </p>
 
 **🛠️ Skills:**  
-🗄️ Database design  
-⚙️ Performance tuning  
-📈 Query optimization  
-🧩 Indexing  
-🧮 Relational database management
+- 🎨 Web design  
+- 🧑‍💻 Responsive layout development  
+- 🗄️ Database design  
+- ⚙️ Performance tuning  
+- 📈 Query optimization  
 
 🌐 Dedicated to continuous learning and staying updated with the latest technologies.
 
