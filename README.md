@@ -3,6 +3,9 @@
 <h3 align="center">A passionate FrontEnd Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
+<h3 align="center">Turning Ideas Into Code | Innovating with AI & Web Tech 💡</h3>
+
+
 🎓 I'm a <b>Software Engineer</b> and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
 
 👨‍🎓 I’m currently enrolled in <b>Governor Initiative for IT.</b>
