@@ -55,7 +55,6 @@
 ⚡ Fun fact **Tech lover, coding enthusiast. Bringing joy through code!**
 
 ### Connect with me on 🤝: 
-[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F)](mailto:anumriz2017@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F)](https://www.linkedin.com/in/anum-k-442b2022b)
 [![Fiverr](https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F)](https://www.fiverr.com/anumkamal753)
 
