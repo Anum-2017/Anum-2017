@@ -56,7 +56,7 @@
 
 ### Connect with me on 🤝: 
 
-<div class="icons-social" style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
+<div class="icons-social" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <a href="mailto:anumriz2017@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Anum Kamal - Email">
   </a>
@@ -64,15 +64,16 @@
     <img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Anum Kamal - Linkedin">
   </a>
   <a href="https://www.facebook.com/anum.kamal" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Anum Kamal - Facebook">
+    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=F0DB4F" alt="Anum Kamal - Facebook">
   </a>
   <a href="https://www.instagram.com/anum_kamal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Anum Kamal-Instagram">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Anum Kamal - Instagram">
   </a>
   <a href="https://www.fiverr.com/anumkamal753" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anum Kamal-Fiverr">
+    <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anum Kamal - Fiverr">
   </a>
 </div>
+
 
   
   ### 🧰 My Toolbox:
