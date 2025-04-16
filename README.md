@@ -1,10 +1,8 @@
 ![logo](https://github.com/Anum-2017/Anum-2017/blob/main/LinkedIn%20Banner.png) 
 <h1 align="center">Hi 👋, I'm Anum Kamal</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
 <h3 align="center">Turning Ideas Into Code | Innovating with AI & Web Tech 💡</h3>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 🎓 I'm a <b>Software Engineer</b> and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
 
