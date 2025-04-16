@@ -1,22 +1,24 @@
 ![logo](https://github.com/Anum-2017/Anum-2017/blob/main/LinkedIn%20Banner.png) 
+
 <h1 align="center">Hi 👋, I'm Anum Kamal</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
 <h3 align="center">Turning Ideas Into Code | Innovating with AI & Web Tech 💡</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-🎓 I'm a <b>Software Engineer</b> and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
+🎓 I'm a **Software Engineer** and with a keen interest in diverse areas, including software architecture, web development, artificial intelligence, and emerging technologies.
 
-👨‍🎓 I’m currently enrolled in <b>Governor Initiative for IT.</b>
+👨‍🎓 I’m currently enrolled in **Governor Initiative for IT.**
 
-🌱 I'm currently learning about <b>machine learning</b> and <b>artificial intelligence</b> to enhance my skills.
+🌱 I'm currently learning about **Machine learning** and **Artificial Intelligence** to enhance my skills.
 
 👨‍💻 Software engineer passionate about crafting clean, efficient code.
 
 🌟 Here's a glimpse of my expertise in web development technologies:
 
-<b>Back-end:</b> Python, Node.js, and PHP (including frameworks like Laravel).
+**Back-end:** Python, Node.js, and PHP (including frameworks like Laravel).
 
-<b>Front-end:</b> HTML, CSS, JavaScript, Bootstrap, and TypeScript.
+**Front-end:** HTML, CSS, JavaScript, Bootstrap, and TypeScript.
 
 📊 Proficient in database design and optimization, including MySQL and PHPmySQL.
 
@@ -26,13 +28,13 @@
 
 ✨ Let's code and create something amazing together!
 
-👨‍💻 <b> All of my projects are available at [https://github.com/Anum-2017](https://github.com/Anum-2017) </b>
+👨‍💻 **All of my projects are available at** [https://github.com/Anum-2017](https://github.com/Anum-2017) 
 
 ⚡ Fun fact **Tech lover, coding enthusiast. Bringing joy through code!**
 
-<h3>Connect with me on 🤝: </h3>
+### Connect with me on 🤝: 
 
-<div class="icons-social" style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
+<div class="icons-social" style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
   <a href="mailto:anumriz2017@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Anum Kamal - Email">
   </a>
@@ -46,9 +48,10 @@
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Anum Kamal-Instagram">
   </a>
   <a href="https://www.fiverr.com/anumkamal753" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anum Kamal-fiverr">
+    <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anum Kamal-Fiverr">
   </a>
 </div>
+
   
   ### 🧰 My Toolbox:
 
@@ -68,8 +71,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
 
-
-</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anum-2017&show_icons=true&locale=en&layout=compact" alt="Anum-2017" /></p>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&locale=en" alt="Anum-2017" /></p>
