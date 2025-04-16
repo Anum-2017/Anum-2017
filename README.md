@@ -13,8 +13,7 @@
 🌱 I'm currently learning about **Machine learning** and **Artificial Intelligence** to enhance my skills.
 
 👨‍💻 Software engineer passionate about crafting clean, efficient code.
-
-<br>
+<hr>
 
 **🌟 Here's a glimpse of my expertise in web development technologies:**
 
