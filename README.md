@@ -39,9 +39,12 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-**Skills:** 
-  <p>Database design, performance tuning, query optimization, indexing, and relational database management.</p>
-
+**🛠️ Skills:**  
+🗄️ Database design  
+⚙️ Performance tuning  
+📈 Query optimization  
+🧩 Indexing  
+🧮 Relational database management
 
 🌐 Dedicated to continuous learning and staying updated with the latest technologies.
 
