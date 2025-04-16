@@ -14,7 +14,6 @@
 
 👨‍💻 Software engineer passionate about crafting clean, efficient code.
 
-<hr>
 **🌟 Here's a glimpse of my expertise in web development technologies:**
 
 <p><strong>Front-End:</strong><br>
