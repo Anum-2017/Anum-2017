@@ -58,10 +58,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F)](mailto:anumriz2017@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F)](https://www.linkedin.com/in/anum-kamal-442b2022b)
-[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=F0DB4F)](https://www.facebook.com/anum.kamal)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F)](https://www.instagram.com/anum_kamal)
 [![Fiverr](https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F)](https://www.fiverr.com/anumkamal753)
-
 
   ### 🧰 My Toolbox:
 
