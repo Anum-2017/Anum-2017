@@ -52,8 +52,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks/Libraries:**  
-### 🌍 Deployed with Next.js
-- 🚀 Deployed on [Vercel](https://vercel.com) for ultra-fast performance and easy Next.js hosting.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
