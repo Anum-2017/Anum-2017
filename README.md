@@ -48,7 +48,7 @@
 
 ✨ Let's code and create something amazing together!
 
-👨‍💻 **All of my projects are available at** [Github][https://github.com/Anum-2017](https://github.com/Anum-2017) 
+👨‍💻 **All of my projects are available at** [Github](https://github.com/Anum-2017) 
 
 🌐 **Check out my portfolio:** [Portfolio](https://milestone2-portfolio.vercel.app/)
 
