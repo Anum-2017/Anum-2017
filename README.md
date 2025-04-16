@@ -48,17 +48,11 @@
 
 ✨ Let's code and create something amazing together!
 
-👨‍💻 **All of my projects are available at** [https://github.com/Anum-2017](https://github.com/Anum-2017) 
+👨‍💻 **All of my projects are available at** [Github][https://github.com/Anum-2017](https://github.com/Anum-2017) 
 
-**🌐 Check out my portfolio:** 
-<p>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white" alt="My Portfolio">
-  </a>
-</p>
+🌐 **Check out my portfolio:** [Portfolio](https://milestone2-portfolio.vercel.app/)
 
 ⚡ Fun fact **Tech lover, coding enthusiast. Bringing joy through code!**
-
 
 ### Connect with me on 🤝: 
 
