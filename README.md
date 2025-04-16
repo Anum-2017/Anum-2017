@@ -31,10 +31,15 @@
   <img src="https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white" alt="Laravel">
 </p>
 
+**📊 Proficient in database design and optimization:**
 
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PHPMySQL-6D6D6D?style=flat&logo=php&logoColor=white" alt="PHPMySQL">
+</p>
 
+<p><strong>Skills:</strong> Database design, performance tuning, query optimization, indexing, and relational database management.</p>
 
-📊 Proficient in database design and optimization, including MySQL and PHPmySQL.
 
 🌐 Dedicated to continuous learning and staying updated with the latest technologies.
 
