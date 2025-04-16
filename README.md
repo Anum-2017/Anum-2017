@@ -25,13 +25,11 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-<p><strong>Back-End:</strong> 
- 
+<p><strong>Back-End:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white" alt="Laravel">
-  
 </p>
 
 
