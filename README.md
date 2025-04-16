@@ -36,6 +36,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PHPMySQL-6D6D6D?style=flat&logo=php&logoColor=white" alt="PHPMySQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
 <p><strong>Skills:</strong> Database design, performance tuning, query optimization, indexing, and relational database management.</p>
