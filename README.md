@@ -52,6 +52,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks/Libraries:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
