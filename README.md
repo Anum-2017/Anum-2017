@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
+---
+
 **🛠️ Skills:**  
 - 🎨 Web design  
 - 🧑‍💻 Responsive layout development  
