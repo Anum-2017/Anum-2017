@@ -29,17 +29,6 @@
 
 ---
 
-### 🚀 Highlight Projects
-
-- **Personal Finance App** – A streamlined budget manager  
-- **Book Library System** – Built with Python & MySQL  
-- **AI Interview Prep Agent** – Powered by Streamlit + OpenAI  
-- **Mind Growth Challenge** – Python + Streamlit project  
-- **Unit Converter Web App** – Intuitive UI for real-time conversions  
-- **QR Code Generator** – Scan-ready link generator in Python  
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
