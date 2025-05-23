@@ -6,8 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20views&color=00C5FF&style=flat" alt="Anum-2017" /> 
 </p>
 
+
 </br>
 <img align="right" alt="Coding" height="300" width="320" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
+</br>
 
 ### 👩‍💻 About Me
 
