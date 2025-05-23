@@ -1,7 +1,11 @@
 ![Logo](https://github.com/Anum-2017/Anum-2017/blob/main/LinkedIn%20Banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=00C5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%91%8B+Hey%2C+I'm+Anum+Kamal!;%F0%9F%92%A1+Software+Engineer+%7C+Front-End+Developer;%F0%9F%94%8E+AI+Tech+Explorer+%7C+Problem+Solver;%F0%9F%93%90+Crafting+Web+Apps+%26+Smart+Solutions)](https://git.io/typing-svg)
 
+<!-- 💁‍♀️ Name and Subtitle -->
+<h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Hooriya M.Fareed</span> 💻</h1>
+<h3 align="center">Frontend Developer 💖 | Python Explorer 🐍 | AI Enthusiast 🤖 | Forever Learner 📚</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=00C5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%91%8B+Welcome+to+my+digital+space!;%F0%9F%92%BB+Building+interactive+%26+elegant+UIs;%F0%9F%A4%96+Passionate+about+AI+%26+smart+systems;%F0%9F%9A%80+Turning+ideas+into+real-world+apps;%F0%9F%9B%A0%EF%B8%8F+Code.+Design.+Innovate.+Repeat.)](https://git.io/typing-svg)
 
 </br>
 <img align="right" alt="Coding" height="300" width="320" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
