@@ -18,7 +18,6 @@
 - 🧠 Exploring **AI**, **Machine Learning**, and **Next.js**  
 - 🌐 Currently enrolled in the **Governor's Initiative for IT**
 - 🔗 Portfolio: [Portfolio](https://milestone2-portfolio.vercel.app/)  
-- ✉️ Contact me: *anumriz2017@gmail.com*  
 - 🚀 Focused on building intuitive web interfaces and efficient code  
 - 🛠️ Working with: **HTML, CSS, JavaScript, TypeScript, Python, Laravel, Node.js**
 
