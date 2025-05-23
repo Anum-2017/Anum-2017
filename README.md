@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=00C5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%91%8B+Hey%2C+I'm+Anum+Kamal!;%F0%9F%92%A1+Software+Engineer+%7C+Front-End+Developer;%F0%9F%94%8E+AI+Tech+Explorer+%7C+Problem+Solver;%F0%9F%93%90+Crafting+Web+Apps+%26+Smart+Solutions)](https://git.io/typing-svg)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20views&color=00C5FF&style=flat" alt="Anum-2017" /> 
-</p>
-
 
 </br>
 <img align="right" alt="Coding" height="300" width="320" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
@@ -26,7 +22,7 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,gitignore" />
 </div>  
 
 ---
