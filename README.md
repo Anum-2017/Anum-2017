@@ -25,10 +25,9 @@
 
 ### 🧰 Tech Stack
 
-<div style="text-align: center; padding: 20px; background-color: #0d1117;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,git,vscode&perline=10" style="margin-bottom: 10px;" />
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,git,vscode,fastapi,vercel,render,chainlit,streamlit&perline=10" />
+</p>
 
 ---
 
