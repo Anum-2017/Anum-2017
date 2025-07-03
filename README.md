@@ -44,6 +44,14 @@
 
 ---
 
+### 🤝 Let's Collaborate
+
+- 💼 Open to freelance or full-time opportunities  
+- 🧠 Always up for discussing innovative project ideas  
+- 💬 Let’s build something awesome together!
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -72,13 +80,15 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&langs_count=10&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF" 
     height="200px" 
     width="700px" 
-    style="border: 1px solid #00C5FF; border-radius: 10px;"
+<!--     style="border: 1px solid #00C5FF; border-radius: 10px;" -->
   />
 
 </div>
 
+---
 
-<br />
+### 📈 Contribution Graph
+
 
 ![Anum's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false)
 
