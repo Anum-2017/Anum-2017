@@ -77,7 +77,7 @@
 
   <!-- GitHub Streak -->
   <img 
-    src="https://streak-stats.demolab.com/?user=Anum-2017&theme=react&hide_border=false&background=0D1117&ring=00C5FF&fire=00C5FF&currStreakLabel=00C5FF" 
+    src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=dark)](https://git.io/streak-stats)" 
     alt="Anum Kamal GitHub Streak" 
     height="200px" 
     width="450px" 
