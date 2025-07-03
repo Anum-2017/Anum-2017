@@ -8,11 +8,6 @@
 <h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Anum Kamal</span> 💻</h1>
 <h3 align="center">Frontend Developer ⚡ | Python Developer 🐍 | AI & Innovation Enthusiast 🤖 | Curious Mind 📘|  Forever Learner 📚</h3>
 
-
-<p align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding GIF" width="320" height="300" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
