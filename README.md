@@ -58,11 +58,9 @@
     alt="Anum Kamal Top Languages" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&langs_count=10&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF" 
     height="200px" 
-    width="900px" 
+    width="700px" 
     style="border: 1px solid #00C5FF; border-radius: 10px;"
   />
-
-  ![Anum Kamal Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&langs_count=10&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF)
 
 </div>
 
