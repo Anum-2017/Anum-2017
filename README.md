@@ -6,36 +6,23 @@
 
 <!-- 💁‍♀️ Name and Subtitle -->
 <h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Anum Kamal</span> 💻</h1>
-<h3 align="center">Frontend Developer ⚡ | Python Developer 🐍 | AI & Innovation Enthusiast 🤖 | Curious Mind 📘| Forever Learner 📚</h3>
+<h3 align="center">Frontend Developer ⚡ | Python Developer 🐍 | AI & Innovation Enthusiast 🤖 | Curious Mind 📘|  Forever Learner 📚</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=00C5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%91%8B+Welcome+to+my+digital+space!;%F0%9F%92%BB+Building+interactive+%26+elegant+UIs;%F0%9F%A4%96+Passionate+about+AI+%26+smart+systems;%F0%9F%9A%80+Turning+ideas+into+real-world+apps;%F0%9F%9B%A0%EF%B8%8F+Code.+Design.+Innovate.+Repeat." alt="Typing SVG" />
-  </a>
-</p>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=00C5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%91%8B+Welcome+to+my+digital+space!;%F0%9F%92%BB+Building+interactive+%26+elegant+UIs;%F0%9F%A4%96+Passionate+about+AI+%26+smart+systems;%F0%9F%9A%80+Turning+ideas+into+real-world+apps;%F0%9F%9B%A0%EF%B8%8F+Code.+Design.+Innovate.+Repeat.)](https://git.io/typing-svg)
+
+</br>
+<img align="right" alt="Coding" height="300" width="320" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
+</br>
 
 ### 👩‍💻 About Me
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🎓 <strong>Software Engineer</strong> | Passionate about front-end tech, UI/UX & AI</li>
-        <li>🧠 Exploring <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Next.js</strong></li>
-        <li>🌐 Currently enrolled in the <strong>Governor's Initiative for IT</strong></li>
-        <li>🔗 Portfolio: <a href="https://milestone2-portfolio.vercel.app/">milestone2-portfolio.vercel.app</a></li>
-        <li>🚀 Focused on building intuitive web interfaces and efficient code</li>
-        <li>🛠️ Working with: <em>HTML, CSS, JavaScript, TypeScript, Python, Laravel, Node.js</em></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding GIF" width="300" />
-    </td>
-  </tr>
-</table>
-
+- 🎓 **Software Engineer** | Passionate about front-end tech, UI/UX & AI  
+- 🧠 Exploring **AI**, **Machine Learning**, and **Next.js**  
+- 🌐 Currently enrolled in the **Governor's Initiative for IT**
+- 🔗 Portfolio: [Portfolio](https://milestone2-portfolio.vercel.app/)  
+- 🚀 Focused on building intuitive web interfaces and efficient code  
+- 🛠️ Working with: **HTML, CSS, JavaScript, TypeScript, Python, Laravel, Node.js**
 
 ---
 
@@ -44,14 +31,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,git,vscode,fastapi,vercel,render,chainlit,streamlit&perline=10" />
 </p>
-
----
-
-### 🤝 Let's Collaborate
-
-- 💼 Open to freelance or full-time opportunities  
-- 🧠 Always up for discussing innovative project ideas  
-- 💬 Let’s build something awesome together!
 
 ---
 
@@ -73,23 +52,28 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anum-2017&theme=rose_pine&hide_border=false" />
-</p>
+<div align="center">
+  <img alt="Anum Kamal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF" height="200px" width="450px" />
+  
+  <img alt="Anum Kamal GitHub Streak" src="https://streak-stats.demolab.com?user=Anum-2017&theme=react&hide_border=false&background=0D1117&title_color=00C5FF&stroke=00C5FF&ring=00C5FF&currStreakLabel=00C5FF" height="200px" width="450px" />
+  
+  <img 
+    alt="Anum Kamal Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&langs_count=10&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF" 
+    height="200px" 
+    width="700px" 
+    style="border: 1px solid #00C5FF; border-radius: 10px;"
+  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anum-2017&layout=compact&theme=rose_pine&hide_border=false" />
-</p>
----
 
-### 📈 Contribution Graph
-
+<br />
 
 ![Anum's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false)
+
+
+---
 
 <h2 align="center">💡 “Turning Ideas Into Innovative Tech With Code & Creativity!” ✨</h2>
 
