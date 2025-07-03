@@ -73,27 +73,17 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anum-2017&theme=react&hide_border=false&background=0D1117&ring=00C5FF&fire=00C5FF&currStreakLabel=00C5FF" width="45%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&langs_count=10&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF" width="93%" />
-
----
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hooriyaa&theme=rose_pine&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hooriyaa&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&layout=compact&theme=rose_pine&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriyaa&layout=compact&theme=rose_pine&hide_border=false" />
 </p>
-
 ---
 
 ### 📈 Contribution Graph
