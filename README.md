@@ -65,7 +65,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anum-2017&theme=rose_pine&hide_border=false&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anum-2017&theme=rose_pine&hide_border=false" />
 </p>
 
 <p align="center">
@@ -73,8 +73,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&layout=compact&theme=rose_pine&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&layout=compact&langs_count=8&theme=rose_pine&hide_border=false" />
 </p>
+
 
 ---
 
