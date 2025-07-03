@@ -76,9 +76,7 @@
   />
 
   <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Anum-2017" alt="GitHub Streak" height="200px" width="450px" />
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anum-2017)](https://git.io/streak-stats)
 
 
   <!-- Most Used Languages -->
