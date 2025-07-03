@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=200&section=header&text=Hi%2C%20I'm%20Anum%20Kamal%20👩‍💻&fontSize=38&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=38&fontAlign=middle&fontColor=ffffff" />
 </p>
 
 
