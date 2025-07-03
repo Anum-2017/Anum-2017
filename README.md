@@ -1,12 +1,9 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=38&fontAlign=middle&fontColor=ffffff" />
 </p>
 
-
-<!-- 💁‍♀️ Name and Subtitle -->
 <h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Anum Kamal</span> 💻</h1>
-<h3 align="center">Frontend Developer ⚡ | Python Developer 🐍 | AI & Innovation Enthusiast 🤖 | Curious Mind 📘|  Forever Learner 📚</h3>
+<h3 align="center">Frontend Developer ⚡ | Python Developer 🐍 | AI & Innovation Enthusiast 🤖 | Curious Mind 📘 | Forever Learner 📚</h3>
 
 ---
 
@@ -29,7 +26,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -78,13 +74,12 @@
       width="450px" 
     />
 
-  <img 
+    <img 
       alt="Anum Kamal GitHub Streak" 
       src="https://streak-stats.demolab.com?user=Anum-2017&theme=react&hide_border=false&background=0D1117&title_color=00C5FF&stroke=00C5FF&ring=00C5FF&currStreakLabel=00C5FF" 
       height="200px" 
       width="450px" 
-  />
-    
+    />
   </div>
 
   <!-- Second Row: Top Languages -->
@@ -97,8 +92,6 @@
   />
 
 </div>
-
-
 
 ---
 
