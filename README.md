@@ -5,10 +5,6 @@
 <h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Anum Kamal</span> 💻</h1>
 <h3 align="center">Frontend Developer ⚡ | Python Developer 🐍 | AI & Innovation Enthusiast 🤖 | Curious Mind 📘|  Forever Learner 📚</h3>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=00C5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%91%8B+Welcome+to+my+digital+space!;%F0%9F%92%BB+Building+interactive+%26+elegant+UIs;%F0%9F%A4%96+Passionate+about+AI+%26+smart+systems;%F0%9F%9A%80+Turning+ideas+into+real-world+apps;%F0%9F%9B%A0%EF%B8%8F+Code.+Design.+Innovate.+Repeat.)](https://git.io/typing-svg)
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=00C5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%91%8B+Welcome+to+my+digital+space!;%F0%9F%92%BB+Building+interactive+%26+elegant+UIs;%F0%9F%A4%96+Passionate+about+AI+%26+smart+systems;%F0%9F%9A%80+Turning+ideas+into+real-world+apps;%F0%9F%9B%A0%EF%B8%8F+Code.+Design.+Innovate.+Repeat." alt="Typing SVG" />
