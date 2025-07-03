@@ -70,21 +70,26 @@
 
 ### 📊 GitHub Stats
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF" 
-  alt="Anum Kamal GitHub Stats" 
-  width="450" 
-  height="200"
-/>
-
-<br />
-
-<img 
-  src="https://streak-stats.demolab.com?user=Anum-2017&theme=react&hide_border=false&background=0D1117&title_color=00C5FF&stroke=00C5FF&ring=00C5FF&currStreakLabel=00C5FF" 
-  alt="Anum Kamal GitHub Streak" 
-  width="450" 
-  height="200"
-/>
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF" 
+        alt="Anum Kamal GitHub Stats" 
+        width="450" 
+        height="200"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com?user=Anum-2017&theme=react&hide_border=false&background=0D1117&title_color=00C5FF&stroke=00C5FF&ring=00C5FF&currStreakLabel=00C5FF" 
+        alt="Anum Kamal GitHub Streak" 
+        width="450" 
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -94,6 +99,7 @@
   width="700" 
   height="200"
 />
+
 
 ---
 
