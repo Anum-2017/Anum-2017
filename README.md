@@ -64,9 +64,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Anum-2017&theme=rose_pine&hide_border=false&cache_seconds=86400" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" />
