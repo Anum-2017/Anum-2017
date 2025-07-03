@@ -70,6 +70,12 @@
 
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfarazqadir&show_icons=true&locale=en&layout=compact" alt="sarfarazqadir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarfarazqadir&show_icons=true&locale=en" alt="sarfarazqadir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarfarazqadir&" alt="sarfarazqadir" /></p>
+---
 
 <h2 align="center">💡 “Turning Ideas Into Innovative Tech With Code & Creativity!” ✨</h2>
 
