@@ -11,12 +11,7 @@
   </a>
 </p>
 
-
-</br>
-<img align="right" alt="Coding" height="300" width="320" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
-</br>
-
-<p align="center">
+<p align="right">
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding GIF" width="320" height="300" />
 </p>
 
