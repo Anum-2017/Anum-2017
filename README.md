@@ -73,8 +73,18 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF" alt="Anum Kamal GitHub Stats" width="45%" />
-<img src="https://streak-stats.demolab.com?user=Anum-2017&theme=react&hide_border=false&background=0D1117&title_color=00C5FF&stroke=00C5FF&ring=00C5FF&currStreakLabel=00C5FF" alt="Anum Kamal GitHub Streak" width="45%" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&title_color=00C5FF&icon_color=00C5FF"       alt="Anum Kamal GitHub Stats" 
+  width="45%"
+/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Anum-2017&theme=react&hide_border=false&background=0D1117&ring=00C5FF&fire=00C5FF&currStreakLabel=00C5FF" 
+  alt="Anum Kamal GitHub Streak Stats" 
+  width="450" 
+  height="200"
+/>
+
 
 <br>
 
