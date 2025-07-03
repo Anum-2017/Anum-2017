@@ -16,6 +16,11 @@
 <img align="right" alt="Coding" height="300" width="320" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 </br>
 
+<p align="center">
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding GIF" width="320" height="300" />
+</p>
+
+
 ### 👩‍💻 About Me
 
 - 🎓 **Software Engineer** | Passionate about front-end tech, UI/UX & AI  
