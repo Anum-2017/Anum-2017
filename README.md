@@ -1,4 +1,7 @@
-![Logo](https://github.com/Anum-2017/Anum-2017/blob/main/LinkedIn%20Banner.png)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=200&section=header&text=Hi%2C%20I'm%20Anum%20Kamal%20👩‍💻&fontSize=38&fontAlign=50&fontColor=ffffff" />
+</p>
 
 
 <!-- 💁‍♀️ Name and Subtitle -->
