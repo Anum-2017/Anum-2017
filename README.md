@@ -91,7 +91,5 @@
 
 ![Anum's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false)
 
----
-
 <h2 align="center">💡 “Turning Ideas Into Innovative Tech With Code & Creativity!” ✨</h2>
 
