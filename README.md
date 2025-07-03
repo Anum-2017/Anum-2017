@@ -96,3 +96,6 @@
 
 <h2 align="center">💡 “Turning Ideas Into Innovative Tech With Code & Creativity!” ✨</h2>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer" />
+</p>
