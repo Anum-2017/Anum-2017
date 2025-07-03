@@ -81,8 +81,7 @@
     height="200px" 
     width="700px" 
     />
-<!--     style="border: 1px solid #00C5FF; border-radius: 10px;" -->
-
+    
 </div>
 
 ---
@@ -91,7 +90,6 @@
 
 
 ![Anum's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false)
-
 
 ---
 
