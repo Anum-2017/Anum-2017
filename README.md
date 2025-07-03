@@ -15,6 +15,27 @@
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding GIF" width="320" height="300" />
 </p>
 
+---
+### 👩‍💻 About Me
+
+<table>
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding GIF" width="300" />
+    </td>
+    <td>
+      <ul>
+        <li>🎓 <strong>Software Engineer</strong> | Passionate about front-end tech, UI/UX & AI</li>
+        <li>🧠 Exploring <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Next.js</strong></li>
+        <li>🌐 Currently enrolled in the <strong>Governor's Initiative for IT</strong></li>
+        <li>🔗 Portfolio: <a href="https://milestone2-portfolio.vercel.app/">milestone2-portfolio.vercel.app</a></li>
+        <li>🚀 Focused on building intuitive web interfaces and efficient code</li>
+        <li>🛠️ Working with: <em>HTML, CSS, JavaScript, TypeScript, Python, Laravel, Node.js</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 --- 
 
 ### 👩‍💻 About Me
