@@ -76,12 +76,10 @@
   />
 
   <!-- GitHub Streak -->
-  <img 
-    src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=dark)](https://git.io/streak-stats)" 
-    alt="Anum Kamal GitHub Streak" 
-    height="200px" 
-    width="450px" 
-  />
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Anum-2017" alt="GitHub Streak" height="200px" width="450px" />
+  </a>
+
 
   <!-- Most Used Languages -->
   <img 
