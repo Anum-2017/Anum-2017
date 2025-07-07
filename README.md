@@ -5,6 +5,7 @@
 
 <h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Anum Kamal</span> 💻</h1>
 <h3 align="center">Frontend Developer ⚡ | Python Developer 🐍 | AI & Innovation Enthusiast 🤖 | Curious Mind 📘 | Forever Learner 📚</h3>
+<h3 align="center">Frontend Developer ⚡ | Python Programmer 🐍 | AI & Innovation Explorer 🤖 | Inquisitive Thinker 💡 | Lifelong Learner 📚</h3>
 
 ---
 
