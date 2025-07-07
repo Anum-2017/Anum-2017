@@ -62,8 +62,7 @@
 
 ---
 
-<table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" /> </td> </tr> </table> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&layout=compact&langs_count=8&theme=rose_pine&hide_border=false" alt="Top Languages" /> </p>
-
+<p align="center"> <span> <img src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" alt="GitHub Stats" width="45%" /> </span> <span> <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="45%" /> </span> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&layout=compact&langs_count=8&theme=rose_pine&hide_border=false" alt="Top Languages" width="50%" /> </p>
 
 
 ---
