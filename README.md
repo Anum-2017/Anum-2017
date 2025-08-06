@@ -76,7 +76,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" alt="GitHub Stats" width="47%" height="200" />
   </span>
   <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="47%" height="200" /> 
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="47%" height="200" />  -->
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anum-2017&theme=react&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
   </span> 
 </p>
 
