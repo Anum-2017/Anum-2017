@@ -12,6 +12,12 @@
 
 </div>
 
+<div style="margin: 20px 0; text-align: center;">
+  <a href="https://github.com/Anum-2017">
+    <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20Views&color=FF6B9D" alt="Profile Views"/>
+  </a>
+</div>
+
 ---
 
 ### 👩‍💻 About Me
