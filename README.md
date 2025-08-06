@@ -78,9 +78,6 @@
   <span>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="47%" height="200" /> 
   </span> 
-<!--   <span>
-    <img src="https://streak-stats.demolab.com?user=Anum-2017&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats"  width="47%" height="200" />
-  </span> -->
 </p>
 
 <p align="center">
