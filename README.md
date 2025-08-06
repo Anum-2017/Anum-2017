@@ -88,13 +88,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RidaNaz&theme=react&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anum-2017&theme=react&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
 
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff" />
 </div>
 
 ---
