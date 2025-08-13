@@ -44,6 +44,17 @@
 
 ---
 
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite" />
+</p>
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,fastapi,vercel,render,cs,cpp,discord,ai" />
+</p>
+
+---
+
 ### 🤝 Let's Collaborate
 
 - 💼 Open to freelance or full-time opportunities  
