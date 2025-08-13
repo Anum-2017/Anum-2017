@@ -40,13 +40,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,git,vscode,figma,fastapi,vercel,render,chainlit,streamlit,cs,cpp,discord,ai&perline=10" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,python,php,nodejs,bootstrap,tailwind,react,nextjs,mysql,sqlite,git,vscode,figma,fastapi,vercel,render,discord,chainlit,streamlit,ai&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,python,php,bootstrap,tailwind,react,nextjs,nodejs,mysql,sqlite,fastapi,git,vscode,figma,vercel,render,discord,chainlit,streamlit,ai&perline=12" />
 </p>
 
 ---
