@@ -12,7 +12,6 @@
   </a>
 </div>
 
-
 ---
 
 ### 👩‍💻 About Me
@@ -40,7 +39,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,python,php,bootstrap,tailwind,react,nextjs,nodejs,mysql,sqlite,fastapi,git,vscode,figma,vercel,render,discord,chainlit,streamlit,ai&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,python,php,bootstrap,tailwind,react,nextjs,nodejs,mysql,sqlite,fastapi,git,vscode,figma,vercel,render,discord,chainlit,streamlit,ai&perline=13" />
 </p>
 
 ---
