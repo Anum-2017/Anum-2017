@@ -39,9 +39,8 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,git,vscode,figma,fastapi,vercel,render,chainlit,streamlit,cs,cpp,discord" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,fastapi,py,cpp,github,vercel,vscode,figma,wordpress,gcp,ai,discord,linkedin,gmail" />
 </p>
-
 ---
 
 ### 🤝 Let's Collaborate
