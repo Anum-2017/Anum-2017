@@ -43,13 +43,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,git,vscode,figma,fastapi,vercel,render,chainlit,streamlit,cs,cpp,discord,ai&perline=10" />
 </p>
 
---- 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,git,vscode,figma,fastapi,vercel,render,chainlit,streamlit,cs,cpp,discord,ai&perline=10" />
-</p>
-
-
 ---
 
 ### 🤝 Let's Collaborate
