@@ -45,7 +45,8 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,git,vscode,figma,fastapi,vercel,render,cs,cpp,discord,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,python,php,nodejs,mysql,sqlite,git,vscode,figma,fastapi,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,discord,ai" />
 </p>
 
 
