@@ -65,7 +65,11 @@
   <a href="https://www.fiverr.com/anumkamal753">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
+  <a href="https://medium.com/@anumkamal753" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
