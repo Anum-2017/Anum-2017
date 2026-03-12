@@ -2,14 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&fontColor=ffffff" />
 </p>
 
-<a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=light" alt="GitRoll Profile Badge"/></a>
-
 <h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Anum Kamal</span> 💻</h1>
 <h3 align="center">Frontend Developer⚡| Python Developer 🐍 | AI & Innovation Explorer 🤖 | Inquisitive Thinker 💡 | Lifelong Learner 📚</h3>
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <a href="https://github.com/Anum-2017">
     <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20Views&color=FF6B9D" alt="Profile Views"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=dark" alt="GitRoll Profile Badge"/>
   </a>
 </div>
 
