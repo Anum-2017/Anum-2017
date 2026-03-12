@@ -9,7 +9,9 @@
   <a href="https://github.com/Anum-2017">
     <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20Views&color=FF6B9D" alt="Profile Views"/>
   </a>
+  
   &nbsp;&nbsp;
+  
   <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=dark" alt="GitRoll Profile Badge"/>
   </a>
