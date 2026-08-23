@@ -1,8 +1,7 @@
 <p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&fontColor=ffffff" /> -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=3C2B32&height=200&section=header&fontColor=ffffff" />
- <img src="https://capsule-render.vercel.app/api?type=waving&color=2B2D3E&height=200&section=header&fontColor=ffffff" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&fontColor=ffffff" />
+</p>
+
 <h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Anum Kamal</span> 💻</h1>
 <h3 align="center">Frontend Developer⚡| Python Developer 🐍 | AI & Innovation Explorer 🤖 | Inquisitive Thinker 💡 | Lifelong Learner 📚</h3>
 
