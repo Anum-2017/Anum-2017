@@ -8,6 +8,15 @@
 Full Stack Developer ⚡ | AI & Agentic AI Developer 🤖 | Python Developer 🐍 | AI Systems Builder 🧠 | Lifelong Learner 📚
 </h3>
 
+
+<!-- 🖋️ Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Full+Stack+Developer;Agentic+AI+Developer;React+%7C+Next.js+%7C+FastAPI;OpenAI+SDK+%7C+Gemini+API;Always+Learning+New+Things" />
+</p>
+
+---
+
 <div style="display: flex; justify-content: center; margin: 20px 0;">
 
   <a href="https://github.com/Anum-2017">
@@ -165,7 +174,6 @@ My goal is to combine **software engineering + artificial intelligence** to crea
     alt="Anum Kamal's GitHub Activity Graph" 
   />
 </p>
-<img width="1014" height="1314" alt="image" src="https://github.com/user-attachments/assets/74a566a7-f281-4c0a-be62-6f9420bf1959" />
 
 ---
 
