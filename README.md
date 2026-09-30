@@ -59,13 +59,9 @@ Full Stack Developer ⚡ | AI & Agentic AI Developer 🤖 | Python Developer �
 
 ## 🧰 Tech Stack
 
-### 🧰 Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,tailwind,python,php,nodejs,mysql,sqlite,fastapi,cpp,git,github,vercel,vscode,figma,ai,discord,render,chainlit,streamlit" /> </p>
-
-### 🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,vscode,figma" />
-</p>
+ <p align="center"> 
+   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,tailwind,python,php,nodejs,mysql,sqlite,fastapi,cpp,git,github,vercel,vscode,figma,ai,discord,render,chainlit,streamlit" /> 
+ </p>
 
 ---
 
