@@ -165,6 +165,7 @@ My goal is to combine **software engineering + artificial intelligence** to crea
     alt="Anum Kamal's GitHub Activity Graph" 
   />
 </p>
+<img width="1014" height="1314" alt="image" src="https://github.com/user-attachments/assets/74a566a7-f281-4c0a-be62-6f9420bf1959" />
 
 ---
 
