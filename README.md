@@ -2,65 +2,90 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi, I'm Anum Kamal 👋</h1>
+<h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Anum Kamal</span> 💻</h1>
 
 <h3 align="center">
-  Full Stack Developer • AI & Agentic AI Developer • AI Systems Builder
+Full Stack Developer ⚡ | AI & Agentic AI Developer 🤖 | Python Developer 🐍 | AI Systems Builder 🧠 | Lifelong Learner 📚
 </h3>
 
-<p align="center">
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+
   <a href="https://github.com/Anum-2017">
-    <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20Views&color=38BDF8" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20Views&color=FF6B9D" alt="Profile Views"/>
   </a>
-</p>
+
+  
+
+  <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=darkEmerald" alt="GitRoll Profile Badge"/>
+  </a>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Full Stack Developer and AI systems builder** passionate about creating modern web applications and intelligent AI-powered solutions.
-
-* 💻 Building with **React, Next.js, TypeScript & Python**
-* 🤖 Exploring **Generative AI & Agentic AI**
-* 🧠 Working with **OpenAI Agent SDK & AI Agents**
-* ⚙️ Building automation workflows with **n8n**
-* 🚀 Interested in scalable, intelligent digital products
-* 📚 Continuously learning and experimenting with emerging technologies
-* 💼 Open to **freelance, collaboration & development opportunities**
-
-### 🎯 Current Focus
-
-**Artificial Intelligence • Generative AI • Agentic AI • Web Development • n8n • AI Automation • SEO • Digital Skills**
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 <strong>Software Engineer</strong> focused on Full Stack Development, AI & intelligent systems</li>
+        <li>🤖 Exploring <strong>Generative AI, Agentic AI, AI Agents</strong> and AI-powered applications</li>
+        <li>💻 Building with <strong>React, Next.js, TypeScript, Python</strong> and modern web technologies</li>
+        <li>🧠 Working with <strong>OpenAI Agent SDK</strong> and AI agent workflows</li>
+        <li>⚙️ Exploring <strong>n8n</strong> for AI automation and workflow orchestration</li>
+        <li>🌐 Passionate about building intuitive, scalable and intelligent digital products</li>
+        <li>📚 Continuously learning and experimenting with emerging technologies</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding GIF" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Current Focus
 
-### Frontend
+<p align="center">
 
-<p>
+**Artificial Intelligence • Generative AI • Agentic AI • Web Development • AI Agents • n8n • AI Automation • SEO • Digital Skills**
+
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+### 🌐 Frontend Development
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Backend & Programming
+### 🐍 Backend & Programming
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,php,cpp,mysql,sqlite" />
 </p>
 
-### AI & Automation
+### 🤖 AI & Agentic AI
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<p>
-  <strong>OpenAI Agent SDK • AI Agents • Generative AI • Agentic AI • n8n • Chainlit • Streamlit</strong>
+<p align="center">
+  <strong>
+    OpenAI Agent SDK • AI Agents • Generative AI • Agentic AI • n8n • Chainlit • Streamlit
+  </strong>
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,render,vscode,figma" />
 </p>
 
@@ -68,69 +93,57 @@ I'm a **Full Stack Developer and AI systems builder** passionate about creating 
 
 ## 🚀 What I Build
 
-```text
-┌─────────────────────────────────────────────┐
-│              My Development Focus           │
-├─────────────────────────────────────────────┤
-│                                             │
-│  🌐 Modern Web Applications                 │
-│  🤖 AI-Powered Applications                 │
-│  🧠 Agentic AI Systems                     │
-│  ⚙️ AI Automation Workflows                │
-│  🔌 AI Agents & Integrations               │
-│  📊 Scalable Digital Products              │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td align="center" width="25%">
+      🌐<br>
+      <strong>Web Applications</strong><br>
+      Modern & responsive digital experiences
+    </td>
+    <td align="center" width="25%">
+      🤖<br>
+      <strong>AI Applications</strong><br>
+      Intelligent AI-powered solutions
+    </td>
+    <td align="center" width="25%">
+      🧠<br>
+      <strong>AI Agents</strong><br>
+      Agentic workflows & systems
+    </td>
+    <td align="center" width="25%">
+      ⚙️<br>
+      <strong>Automation</strong><br>
+      AI-powered workflow automation
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📌 Featured Areas
+## 💡 Development Philosophy
 
-### 🌐 Full Stack Development
+> **Build. Learn. Experiment. Improve.**
 
-Building responsive and scalable applications using **React, Next.js, TypeScript, Python and FastAPI**.
+I enjoy turning ideas into working products, exploring new technologies, and continuously improving my development and AI skills.
 
-### 🤖 Artificial Intelligence
-
-Exploring **Generative AI, AI Agents, Agentic AI architectures and intelligent workflows**.
-
-### ⚙️ Automation
-
-Using **n8n and AI-powered workflows** to automate repetitive processes and connect different systems.
-
-### 🧩 AI Systems
-
-Experimenting with tools such as **OpenAI Agent SDK, Chainlit and Streamlit** to turn AI concepts into practical applications.
+My goal is to combine **software engineering + artificial intelligence** to create useful, scalable and intelligent digital experiences.
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Collaborate
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" alt="GitHub Stats" width="47%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&layout=compact&langs_count=8&theme=rose_pine&hide_border=false" alt="Top Languages" width="60%" />
-</p>
+* 💼 Open to **freelance and development opportunities**
+* 🤝 Interested in collaborating on **AI & web development projects**
+* 🤖 Open to exploring **Agentic AI and automation ideas**
+* 💬 Always interested in discussing innovative technology and project ideas
 
 ---
 
-## 📈 Contribution Graph
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false" alt="Anum Kamal's GitHub Activity Graph" />
-</p>
 
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/anum-k-442b2022b">
+  <a href="https://linkedin.com/in/anum-k-442b2022b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -142,19 +155,66 @@ Experimenting with tools such as **OpenAI Agent SDK, Chainlit and Streamlit** to
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 
-  <a href="https://medium.com/@anumriz2017">
+  <a href="https://medium.com/@anumriz2017" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/anum_kamal">
+  <a href="https://instagram.com/anum_kamal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" 
+      alt="GitHub Stats" 
+      width="47%" 
+      height="200"
+    />
+  </span>
+
+  <span>
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" 
+      alt="GitHub Streak Stats" 
+      width="47%" 
+      height="200"
+    />  
+  </span>
+
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&layout=compact&langs_count=8&theme=rose_pine&hide_border=false" 
+    alt="Top Languages" 
+    width="60%" 
+    height="200"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false" 
+    alt="Anum Kamal's GitHub Activity Graph" 
+  />
 </p>
 
 ---
 
 <h2 align="center">
-  Building Intelligent Products Where Code Meets AI 🤖💻
+  💡 “Turning Ideas Into Intelligent Digital Experiences With Code & AI!” ✨
 </h2>
 
 <p align="center">
