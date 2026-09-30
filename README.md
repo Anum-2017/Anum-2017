@@ -163,18 +163,6 @@ My goal is to combine **software engineering + artificial intelligence** to crea
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-  <span>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" 
-      alt="GitHub Stats" 
-      width="47%" 
-      height="200"
-    />
-  </span>
-
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" />
 </p>
 
@@ -190,6 +178,13 @@ My goal is to combine **software engineering + artificial intelligence** to crea
   />
 </p>
 
+--- 
+
+<h2 align="center">📊 GitHub Contributions</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 ---
 
 <h2 align="center">
