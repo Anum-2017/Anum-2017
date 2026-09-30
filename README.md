@@ -59,29 +59,7 @@ Full Stack Developer ⚡ | AI & Agentic AI Developer 🤖 | Python Developer �
 
 ## 🧰 Tech Stack
 
-### 🌐 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### 🐍 Backend & Programming
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,php,cpp,mysql,sqlite" />
-</p>
-
-### 🤖 AI & Agentic AI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
-  <strong>
-    OpenAI Agent SDK • AI Agents • Generative AI • Agentic AI • n8n • Chainlit • Streamlit
-  </strong>
-</p>
+### 🧰 Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,tailwind,python,php,nodejs,mysql,sqlite,fastapi,cpp,git,github,vercel,vscode,figma,ai,discord,render,chainlit,streamlit" /> </p>
 
 ### 🛠️ Tools & Platforms
 
