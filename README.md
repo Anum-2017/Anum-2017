@@ -174,6 +174,10 @@ My goal is to combine **software engineering + artificial intelligence** to crea
   </span>
 
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" />
+</p>
+
 
 ---
 
