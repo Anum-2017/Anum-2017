@@ -15,15 +15,13 @@ Full Stack Developer ⚡ | Agentic AI Developer 🤖 | Python Developer 🐍 | A
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Full+Stack+Developer;Agentic+AI+Developer;React+%7C+Next.js+%7C+FastAPI;OpenAI+SDK+%7C+Gemini+API;Always+Learning+New+Things" />
 </p>
 
----
-
 <div style="display: flex; justify-content: center; margin: 20px 0;">
 
   <a href="https://github.com/Anum-2017">
     <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20Views&color=FF6B9D" alt="Profile Views"/>
   </a>
 
-  ---
+---
   
   <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=darkEmerald" alt="GitRoll Profile Badge"/>
