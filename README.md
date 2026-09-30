@@ -76,6 +76,14 @@ Full Stack Developer ⚡ | Agentic AI Developer 🤖 | Python Developer 🐍 | A
 
 ---
 
+# 📚 Courses & Certifications
+
+🎓 **Governor Sindh Initiative for GenAI, Web3 & Metaverse**
+
+📅 Feb 2024 – Present
+
+---
+
 ## 🚀 What I Build
 
 <table>
