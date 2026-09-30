@@ -5,7 +5,7 @@
 <h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Anum Kamal</span> 💻</h1>
 
 <h3 align="center">
-Full Stack Developer ⚡ | AI & Agentic AI Developer 🤖 | Python Developer 🐍 | AI Systems Builder 🧠 | Lifelong Learner 📚
+Full Stack Developer ⚡ | Agentic AI Developer 🤖 | Python Developer 🐍 | AI Systems Builder 🧠 
 </h3>
 
 
@@ -23,7 +23,8 @@ Full Stack Developer ⚡ | AI & Agentic AI Developer 🤖 | Python Developer �
     <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20Views&color=FF6B9D" alt="Profile Views"/>
   </a>
 
-  
+  ---
+  
   <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=darkEmerald" alt="GitRoll Profile Badge"/>
   </a>
