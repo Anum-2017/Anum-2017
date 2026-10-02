@@ -182,9 +182,11 @@ My goal is to combine **software engineering + artificial intelligence** to crea
 
 --- 
 
-<h2 align="center">
-  💡 “Turning Ideas Into Intelligent Digital Experiences With Code & AI!” ✨
-</h2>
+<div align="center">
+
+**Open to collaborations and exciting opportunities!**
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer" />
