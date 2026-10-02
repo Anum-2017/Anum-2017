@@ -33,10 +33,11 @@ Full Stack Developer ⚡ | Agentic AI Developer 🤖 | Python Developer 🐍 | A
   </a>
 </p>  -->
 <p align="center">
-  <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1">
+  <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1/stacks">
     <img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=darkEmerald" alt="GitRoll Profile Badge">
   </a>
 </p>
+
 
 ---
 
