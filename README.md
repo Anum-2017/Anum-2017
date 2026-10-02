@@ -32,7 +32,7 @@ Full Stack Developer ⚡ | Agentic AI Developer 🤖 | Python Developer 🐍 | A
     />
   </a>
 </p>   -->
-<a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
 
 ---
 
