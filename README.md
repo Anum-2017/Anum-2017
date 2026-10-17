@@ -173,14 +173,6 @@ My goal is to combine **software engineering + artificial intelligence** to crea
 
 ---
 
-## 📊 My GitHub Contributions
-
-![Anum's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=github-compact&hide_border=true)
-
-
-
---- 
-
 <div align="center">
 
 **Open to collaborations and exciting opportunities!**
