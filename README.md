@@ -24,6 +24,12 @@ Full Stack Developer ⚡ | Agentic AI Developer 🤖 | Python Developer 🐍 | A
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anum-2017&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+
 <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
 
 ---
