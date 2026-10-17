@@ -174,8 +174,9 @@ My goal is to combine **software engineering + artificial intelligence** to crea
 
 ## 🐍 My Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Anum-2017/Anum-2017/output/github-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
