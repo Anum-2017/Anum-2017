@@ -164,14 +164,21 @@ My goal is to combine **software engineering + artificial intelligence** to crea
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false" 
     alt="Anum Kamal's GitHub Activity Graph" 
   />
-</p> 
+</p>  -->
+
+
+## 🐍 My Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/Anum-2017/Anum-2017/output/github-snake.svg)
+
 
 ---
+
 
 <div align="center">
 
