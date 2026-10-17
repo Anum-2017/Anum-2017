@@ -24,8 +24,6 @@ Full Stack Developer ⚡ | Agentic AI Developer 🤖 | Python Developer 🐍 | A
   </a>
 </p>
 
- [![Profile Views](https://komarev.com/ghpvc/?username=RidaNaz&label=Profile%20Views&color=FF6B9D)](https://github.com/RidaNaz)
-
 <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
 
 ---
